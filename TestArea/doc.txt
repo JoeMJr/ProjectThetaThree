@@ -1,0 +1,5 @@
+Document holding the plans for the Theta Test
+
+This first test will be a simple roguelike that is a little railroaded to just get the idea off the ground
+This will be a skeleton of the final system that I want the main game to be
+So consider this test what Theta One should have been
