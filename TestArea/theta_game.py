@@ -14,4 +14,6 @@ def delete_save():
     pass
 
 def game_loop():
+    while game_running:
+        print("Game")
     pass
