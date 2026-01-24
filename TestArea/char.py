@@ -7,8 +7,11 @@ class Character:
         self.current_loc = current_loc
 
 class Player:
-    def __init__(self):
-        pass
+    def __init__(self, name, current_loc, my_CharStats):
+        self.name = name
+        self.current_loc = current_loc
+        self.my_CharStats = my_CharStats
+        
 
 class AreaBoss:
     pass
