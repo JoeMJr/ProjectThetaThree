@@ -2,8 +2,8 @@
 import char
 
 menu_code = 0
-menu_dict = {0 : dev_menu,
-             1 : start_menu}
+menu_dict = {'0' : dev_menu,
+             '1' : start_menu}
 
 def game_menus():
     pass
