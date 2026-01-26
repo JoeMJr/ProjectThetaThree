@@ -1,0 +1,6 @@
+LINKS I DONT WANT TO FORGET OR SEARCH UP AGAIN (NEEDS TO BE REMOVED LATER)
+https://stackoverflow.com/questions/19201290/how-to-save-a-dictionary-to-a-file
+https://stackoverflow.com/questions/7024452/python-global-name-self-is-not-defined
+https://stackoverflow.com/questions/21962763/using-a-dictionary-as-a-switch-statement-in-python
+
+
