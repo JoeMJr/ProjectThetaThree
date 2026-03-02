@@ -1,9 +1,18 @@
 # Going to use dictonaries to quickly go between menus instead of if statements
 import char
 
-menu_code = 0
+menu_state = 0 # I specifically for what the player is doing in said menu
+# in battle, in travel, in towns, stuff like that
+
+menu_code = 0 # For menu functions
 menu_dict = {'0' : dev_menu,
              '1' : start_menu}
+
+def menu_goto(code):
+    if code is int:
+          menu_dict[code]()
+    else:
+         print("Idk you broke it bro")
 
 def game_menus():
     pass

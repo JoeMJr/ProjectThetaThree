@@ -1,0 +1,28 @@
+I will probably rewrite a lot of this in the future
+I need to do planning on the main systems of the game to make sure they can function well
+Will rethink all I have done with menus along with the central game logic skeleton that is here
+
+Script Outline:
+Main script categories
+- UI
+- Game logic
+- Data Storage
+Three Main categories
+Each will have their subsections listed later (By Complexity)
+UI:
+- Menu Manager
+Going to call gam logic functions when needed
+Data Storage:
+- Game File Storage
+- Character File Storage
+Game Logic:
+- Character Class
+- Event Class
+- Location Class
+- Location Logic
+- Character Creation Logic
+- Battle Logic
+- Travel Logic
+- Misc Logic
+This Should serve as a better framework for me to build up the demo
+(I might also rethink if I use python for the lgoic bits here and not C)
